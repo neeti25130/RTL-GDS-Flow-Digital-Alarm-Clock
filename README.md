@@ -32,7 +32,7 @@ The Digital Alarm Clock supports **real-time clock operation, programmable dual 
 * [Repository Structure](#-repository-structure)
 * [Results](#-results)
 * [How to Run](#-how-to-run)
-* [Team Members](#-team-members)
+
 
 ---
 
